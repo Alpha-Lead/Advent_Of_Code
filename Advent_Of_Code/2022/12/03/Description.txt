@@ -67,3 +67,5 @@ Find the item type that corresponds to the badges of each three-Elf group. What 
 Your puzzle answer was 2545.
 
 That's the right answer! You are one gold star closer to collecting enough star fruit.
+
+You have completed Day 3!
