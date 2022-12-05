@@ -17,4 +17,8 @@ Console.WriteLine($"2022-12-03: Part 2:\n" + Advent_Of_Code.RucksackTask.Search2
 Console.WriteLine($"2022-12-04: Part 1:\n" + Advent_Of_Code.CampCleanupTask.Overlap1());
 Console.WriteLine($"2022-12-04: Part 2:\n" + Advent_Of_Code.CampCleanupTask.Overlap2());
 
+//December 5th
+Console.WriteLine($"2022-12-05: Part 1:\n" + Advent_Of_Code.CraneTask.WhatIsOnTop1());
+Console.WriteLine($"2022-12-05: Part 2:\n" + Advent_Of_Code.CraneTask.WhatIsOnTop2());
+
 Console.WriteLine("ËND"); 
