@@ -25,4 +25,8 @@ Console.WriteLine($"2022-12-05: Part 2:\n" + Advent_Of_Code.CraneTask.WhatIsOnTo
 Console.WriteLine($"2022-12-06: Part 1:\n" + Advent_Of_Code.CommunicatorTask.FindStartOfPacket());
 Console.WriteLine($"2022-12-06: Part 2:\n" + Advent_Of_Code.CommunicatorTask.FindStartOfMessage());
 
+//December 7th
+Console.WriteLine($"2022-12-06: Part 1:\n" + Advent_Of_Code.DirectoryNavigationTask.FindDirSizeSumLT100k());
+Console.WriteLine($"2022-12-06: Part 2:\n" + Advent_Of_Code.DirectoryNavigationTask.FindSizeOfDirToDelete());
+
 Console.WriteLine("END"); 
