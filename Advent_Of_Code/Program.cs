@@ -26,7 +26,12 @@ Console.WriteLine($"2022-12-06: Part 1:\n" + Advent_Of_Code.CommunicatorTask.Fin
 Console.WriteLine($"2022-12-06: Part 2:\n" + Advent_Of_Code.CommunicatorTask.FindStartOfMessage());
 
 //December 7th
-Console.WriteLine($"2022-12-06: Part 1:\n" + Advent_Of_Code.DirectoryNavigationTask.FindDirSizeSumLT100k());
-Console.WriteLine($"2022-12-06: Part 2:\n" + Advent_Of_Code.DirectoryNavigationTask.FindSizeOfDirToDelete());
+Console.WriteLine($"2022-12-07: Part 1:\n" + Advent_Of_Code.DirectoryNavigationTask.FindDirSizeSumLT100k());
+Console.WriteLine($"2022-12-07: Part 2:\n" + Advent_Of_Code.DirectoryNavigationTask.FindSizeOfDirToDelete());
+
+//December 8th
+Console.WriteLine($"2022-12-08: Part 1:\n" + Advent_Of_Code.TreeTopTask.CountVisibleTrees());
+Console.WriteLine($"2022-12-08: Part 2:\n" + Advent_Of_Code.TreeTopTask.HighestScenicScore());
+
 
 Console.WriteLine("END"); 
