@@ -34,8 +34,11 @@ Console.WriteLine($"2022-12-08: Part 1:\n" + Advent_Of_Code.TreeTopTask.CountVis
 Console.WriteLine($"2022-12-08: Part 2:\n" + Advent_Of_Code.TreeTopTask.HighestScenicScore());
 
 //December 9th
-Console.WriteLine($"2022-12-08: Part 1:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositions());
-Console.WriteLine($"2022-12-08: Part 2:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositionsLongRope());
+Console.WriteLine($"2022-12-09: Part 1:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositions());
+Console.WriteLine($"2022-12-09: Part 2:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositionsLongRope());
 
+//December 10th
+Console.WriteLine($"2022-12-10: Part 1:\n" + Advent_Of_Code.CathodeCPUTask.SumSignalStrength());
+Console.WriteLine($"2022-12-10: Part 2:\n" + Advent_Of_Code.CathodeCPUTask.DrawCRTOutput());
 
 Console.WriteLine("END"); 
