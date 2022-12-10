@@ -33,5 +33,9 @@ Console.WriteLine($"2022-12-07: Part 2:\n" + Advent_Of_Code.DirectoryNavigationT
 Console.WriteLine($"2022-12-08: Part 1:\n" + Advent_Of_Code.TreeTopTask.CountVisibleTrees());
 Console.WriteLine($"2022-12-08: Part 2:\n" + Advent_Of_Code.TreeTopTask.HighestScenicScore());
 
+//December 9th
+Console.WriteLine($"2022-12-08: Part 1:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositions());
+Console.WriteLine($"2022-12-08: Part 2:\n" + Advent_Of_Code.RopeBridgeTask.CountTailPositionsLongRope());
+
 
 Console.WriteLine("END"); 
